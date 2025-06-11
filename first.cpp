@@ -3,6 +3,7 @@ using namespace std;
 
 void sayHello() {
     std::cout << "你好" << std::endl;
+    std::cout << "你好" << std::endl;
 
 }
 
